@@ -1,0 +1,254 @@
+/*----------------------------------------------------*/
+body.body_dark {
+  color: var(--black_150);
+  /** === Sticky Menu Navbar === **/
+}
+body.body_dark .doc_features_area .doc_features_shap {
+  display: none;
+}
+body.body_dark .search-banner-light .header_search_form .header_search_form_info .form-group .input-wrapper input {
+  box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.6), 0 1px 3px 1px rgba(0, 0, 0, 0.3);
+}
+body.body_dark h1, body.body_dark h2, body.body_dark h3, body.body_dark h4, body.body_dark h5, body.body_dark h6, body.body_dark .navbar_fixed.menu_one .menu > .nav-item > .nav-link, body.body_dark .breadcrumb .breadcrumb-item:last-child, body.body_dark .forum-post-top .forum-post-author .bbp-author-link,
+body.body_dark .doc_faq_info .card .card-header h2 button, body.body_dark .video_list .video_list_inner .card .card-header button,
+body.body_dark .bbp-login-form legend, body.body_dark #new-post legend, body.body_dark .bbp-logged-in h4 a, body.body_dark .search-result-item .doc-item a,
+body.body_dark .topics-filter .nav-item .nav-link.active, body.body_dark .topics-filter .nav-item .nav-link:hover, body.body_dark .learn_btn, body.body_dark .question-icon,
+body.body_dark .question_list .ques_item h4, body.body_dark .search-banner-light .header_search_form .header_search_form_info .form-group .input-wrapper input,
+body.body_dark .post-header .support-total-info li a.open-data.loading, body.body_dark .bbp-login-form label, body.body_dark #new-post label,
+body.body_dark .navbar_fixed.menu_one .search-icon, body.body_dark .search-result-item .doc-article:hover a,
+body.body_dark .forum_l_inner .forum_head .left li, body.body_dark .pagination_inner .go_btn input, body.body_dark .text_btn.dark_btn {
+  color: #fff;
+}
+body.body_dark .dark_menu:not(.navbar_fixed) .menu_toggle .hamburger span, body.body_dark .dark_menu .menu_toggle .hamburger-cross span,
+body.body_dark .menu_one.dark_menu + .mobile_main_menu .hamburger span, body.body_dark .menu_one.dark_menu .hamburger span,
+body.body_dark .menu_one.dark_menu .hamburger span {
+  background: #fff;
+}
+body.body_dark .documentation_tab .nav-item .nav-link, body.body_dark .card, body.body_dark .widget_display_topics li a, body.body_dark .widget_display_replies li a,
+body.body_dark .widget_display_topics .bbp-forum-title, body.body_dark .widget_display_replies .bbp-forum-title,
+body.body_dark .video_list .video_list_inner .card .card-body .nav li a .media .media-body h4,
+body.body_dark .doc_testimonial_slider .item h3, body.body_dark .doc_testimonial_slider .item .name h5,
+body.body_dark #bbpress-forums fieldset.bbp-form input[type=text], body.body_dark #bbpress-forums fieldset.bbp-form select, body.body_dark .wp-block-archives select,
+body.body_dark .wp-block-categories select, body.body_dark .widget select, body.body_dark #new-post select, body.body_dark.search .search-post-item .breadcrumb .breadcrumb-item a,
+body.body_dark .blog_sidebar .widget.widget_nav_menu ul li a, body.body_dark .blog_sidebar .widget.widget_meta ul li a, body.body_dark .blog_sidebar .widget.widget_pages ul li a,
+body.body_dark .blog_sidebar .widget.widget_archive ul li a, body.body_dark .blog_sidebar .widget.widget_categories ul li a,
+body.body_dark .ticket_categories li a, body.body_dark .categorie_list li a, body.body_dark .question_menu .nav li a {
+  color: var(--black_150);
+}
+body.body_dark .doc_faq_info .card .card-header h2 button.collapsed {
+  color: var(--black_400);
+}
+body.body_dark .forum_footer_area, body.body_dark .doc_footer_top:not(.has_bg_color) {
+  background: #010101;
+}
+body.body_dark .body_wrapper, body.body_dark .img_modal, body.body_dark .doc_features_area, body.body_dark .blog_top_post, body.body_dark .video_slider_area {
+  background: #131417;
+}
+body.body_dark .doc_community_area, body.body_dark .freelancing_list, body.body_dark .asking_area {
+  background: var(--black_800);
+}
+body.body_dark #bbpress-forums li.bbp-header, body.body_dark #bbpress-forums li.bbp-footer, body.body_dark #bbpress-forums li.bbp-header,
+body.body_dark .fact_navigation_info, body.body_dark .doc_faq_info .card {
+  background: #1e1f26;
+}
+body.body_dark #bbpress-forums #new-post > fieldset.bbp-form, body.body_dark .main-post, body.body_dark .all-answers, body.body_dark .bbp-reply-form, body.body_dark .search-main, body.body_dark #comments, body.body_dark .blog_comment_box,
+body.body_dark .blog_top_post.blog_classic_item, body.body_dark .h_item, body.body_dark .question_menu .topic_list_item, body.body_dark .asking_area .asking_item, body.body_dark .status_area .status_inner,
+body.body_dark .r_heading, body.body_dark .l_tags_wd .nav li a, body.body_dark .page-link, body.body_dark .forum_l_inner .forum_head, body.body_dark .answer-action, body.body_dark .changelog_info .line, body.body_dark .doc_features_inner,
+body.body_dark .recommended_item, body.body_dark .categories_guide_item, body.body_dark .bg_color, body.body_dark .doc_about_widget ul li a, body.body_dark .blog_grid_post, body.body_dark blockquote, body.body_dark .comments_widget li .text,
+body.body_dark .doc_community_item, body.body_dark .card, body.body_dark .nav-tabs .nav-item.show .nav-link, body.body_dark .nav-tabs .nav-link.active, body.body_dark .art-video-player .art-bottom,
+body.body_dark #bbpress-forums div.bbp-forum-header, body.body_dark #bbpress-forums div.bbp-reply-header, body.body_dark #bbpress-forums div.bbp-topic-header,
+body.body_dark #docy-search-result, body.body_dark #docy-search-result::before, body.body_dark .pagination-wrapper, body.body_dark #searchInput + .spinner,
+body.body_dark .breadcrumb_area_three, body.body_dark .topic-info, body.body_dark .doc_banner_area.search-banner-light, body.body_dark .search-main,
+body.body_dark #bbpress-forums div.even, body.body_dark #bbpress-forums ul.even,
+body.body_dark .forum-page-content .post-header, body.body_dark .forum-page-content .load-forum,
+body.body_dark #bbpress-forums fieldset.bbp-form input[type=text], body.body_dark #bbpress-forums fieldset.bbp-form select, body.body_dark .wp-block-archives select, body.body_dark .wp-block-categories select, body.body_dark .widget select, body.body_dark #new-post select,
+body.body_dark .question_list .ques_item:nth-child(even), body.body_dark .main-post, body.body_dark .all-answers, body.body_dark .bbp-reply-form, body.body_dark .forums-box,
+body.body_dark #bbpress-forums fieldset.bbp-form input[type=text], body.body_dark .bbp-login-form input[type=text], body.body_dark .bbp-login-form input[type=password], body.body_dark #new-post .bbp-the-content-wrapper textarea, body.body_dark #new-post input[type=text],
+body.body_dark .cheatsheet_item, body.body_dark .ab_wd .nice_select, body.body_dark .sbnr-aesthetic_three, body.body_dark .blog_post_author, body.body_dark .w_tag_list li a, body.body_dark .ticket_categories li .count {
+  background: #2c303a;
+}
+body.body_dark .navbar_fixed.menu_one {
+  background: #171544;
+  box-shadow: 0 0 25px 5px #000;
+}
+body.body_dark .community-post.style-two:hover, body.body_dark .search-banner-light .input-wrapper input {
+  background: #252830;
+}
+body.body_dark .pagination_inner .go_btn input,
+body.body_dark .search_form .form-control, body.body_dark .ab_wd .nice_select {
+  background: #5a5f73;
+  border-color: #2c303a;
+}
+body.body_dark .forum-post-content .forum-post-btm, body.body_dark .all-answers .forum-comment .comment-content,
+body.body_dark .widget_display_topics li, body.body_dark .widget_display_replies li,
+body.body_dark .blog_grid_inner, body.body_dark .dark_menu .right-nav .nav_btn.tp_btn {
+  border-color: rgba(255, 255, 255, 0.2);
+  color: #f5f5f5 !important;
+}
+body.body_dark .search-result-item .doc-item a, body.body_dark .search-result-item .doc-section, body.body_dark.search .searchbar-tabs,
+body.body_dark #docy-search-result::before, body.body_dark #docy-search-result, body.body_dark #bbpress-forums fieldset.bbp-form,
+body.body_dark #bbpress-forums li.bbp-footer, body.body_dark #bbpress-forums li.bbp-header,
+body.body_dark #bbpress-forums div.bbp-forum-header, body.body_dark #bbpress-forums div.bbp-reply-header, body.body_dark #bbpress-forums div.bbp-topic-header,
+body.body_dark #bbpress-forums fieldset.bbp-form input[type=text], body.body_dark #bbpress-forums fieldset.bbp-form select, body.body_dark .wp-block-archives select, body.body_dark .wp-block-categories select, body.body_dark .widget select, body.body_dark #new-post select,
+body.body_dark #bbpress-forums fieldset.bbp-form input[type=text], body.body_dark .bbp-login-form input[type=text], body.body_dark .bbp-login-form input[type=password], body.body_dark #new-post .bbp-the-content-wrapper textarea, body.body_dark #new-post input[type=text],
+body.body_dark .post-header, body.body_dark .community-post.style-two:not(:last-child) {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+body.body_dark .bb-radius, body.body_dark .community-post.style-two:hover, body.body_dark .doc_footer_bottom, body.body_dark .ticket_categories li:not(:last-child),
+body.body_dark .single_list, body.body_dark .comments_widget li .text, body.body_dark .question_menu .topic_list_item, body.body_dark .footer_copyright,
+body.body_dark .fact_navigation .nav-item + li, body.body_dark .documentation_tab, body.body_dark div.bbp-forum-header, body.body_dark div.bbp-reply-header, body.body_dark div.bbp-topic-header,
+body.body_dark #bbpress-forums ul.bbp-forums, body.body_dark #bbpress-forums ul.bbp-lead-topic, body.body_dark #bbpress-forums ul.bbp-replies, body.body_dark #bbpress-forums ul.bbp-search-results, body.body_dark #bbpress-forums ul.bbp-topics,
+body.body_dark .pagination_inner .go_btn .input-group-append button, body.body_dark .forum_l_inner .forum_head, body.body_dark .r_heading, body.body_dark .user_list_wd, body.body_dark .navbar-nav li, body.body_dark .comment_list .navbar-nav li, body.body_dark .question_list_wd, body.body_dark .forum_l_inner, body.body_dark .forum_body .topic_list li {
+  border-color: #2c303a;
+}
+body.body_dark .doc_features_item {
+  border-color: var(--black_700);
+}
+body.body_dark .ab_wd .nice_select span {
+  color: var(--black_150);
+}
+body.body_dark .search_form button {
+  color: #8f94a6;
+}
+body.body_dark .first_logo {
+  display: none;
+}
+body.body_dark .white_logo {
+  display: block !important;
+}
+body.body_dark .header_logo img.sticky_logo {
+  display: none;
+}
+body.body_dark .sticky_menu .navbar-brand img {
+  display: none;
+}
+body.body_dark .sticky_menu .navbar-brand img + img {
+  display: block;
+}
+body.body_dark .sticky_menu .menu_one, body.body_dark .sticky_menu .menu > .nav-item.submenu .dropdown-menu, body.body_dark .sticky_menu .menu > .nav-item.submenu .dropdown-menu:before {
+  background: #252830;
+}
+body.body_dark .sticky_menu .menu > .nav-item.submenu .dropdown-menu, body.body_dark .sticky_menu .menu > .nav-item.submenu .dropdown-menu:before {
+  border-color: #5a5f73;
+}
+body.body_dark .sticky_menu .menu_one .menu > .nav-item .nav-link, body.body_dark .sticky_menu .menu > .nav-item.submenu .dropdown-menu .nav-item .nav-link h5 {
+  color: #fff;
+}
+
+/*---------------------------------------------------- */
+/*----------------------------------------------------*/
+.body_dark {
+  /** === Focus, active color === **/
+  /** !-- End Focus, active color **/
+  /** === Border color === **/
+  /** !-- End Border color **/
+}
+.body_dark.onepage-doc .nav-sidebar .nav-item .docs-progress-bar, .body_dark .fontsize-controllers .btn-group .btn:focus,
+.body_dark .doc_rightsidebar .bootstrap-select > .dropdown-menu .inner .dropdown-menu li a.active, .body_dark .doc_rightsidebar .bootstrap-select > .dropdown-menu .inner .dropdown-menu li a:hover {
+  background: #444857;
+}
+.body_dark .fadeGradient {
+  background: -moz-linear-gradient(bottom, #131417 15%, rgba(255, 255, 255, 0) 100%);
+  background: -webkit-gradient(linear, bottom, top, color-stop(15%, #131417), color-stop(100%, rgba(255, 255, 255, 0)));
+  background: -webkit-linear-gradient(bottom, #131417 15%, rgba(255, 255, 255, 0) 100%);
+  background: -o-linear-gradient(bottom, #131417 15%, rgba(255, 255, 255, 0) 100%);
+  background: -ms-linear-gradient(bottom, #131417 15%, rgba(255, 255, 255, 0) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#03ffffff", endColorstr="#131417", GradientType=0 );
+  background: linear-gradient(bottom, #131417 15%, rgba(255, 255, 255, 0) 100%);
+}
+.body_dark.onepage-doc .nav-sidebar .nav-item, .body_dark .doc_rightsidebar .bootstrap-select > .dropdown-menu, .body_dark .doc_rightsidebar .dropdown-toggle, .body_dark .fontsize-controllers .btn-group, .body_dark.onepage-doc .nav-sidebar .nav-item .dropdown_nav, .body_dark .doc_rightsidebar .doc_switch input[type=checkbox],
+.body_dark .doc_rightsidebar .pageSideSection::before, .body_dark .doc_rightsidebar .bootstrap-select > .dropdown-menu .inner .dropdown-menu {
+  background: #2c303a;
+}
+.body_dark .side_menu, .body_dark .doc_left_sidebarlist:before {
+  background: #1e1f26;
+}
+.body_dark .doc_rightsidebar .doc_switch input[type=checkbox], .body_dark .topic_item_tabs .topic_list_item,
+.body_dark .comment_box .post_comment .comment_author .media-body,
+.body_dark .doc_rightsidebar .dropdown-toggle, .body_dark .fontsize-controllers .btn-group .btn.rvfs-reset, .body_dark .fontsize-controllers .btn-group,
+.body_dark .doc_left_sidebarlist:before, .body_dark .doc_left_sidebarlist, .body_dark .nav-sidebar + .nav-sidebar, .body_dark .doc_rightsidebar, .body_dark .v_menu, .body_dark .toggle_body,
+.body_dark .basic_table_info, .body_dark .basic_table_info tbody tr th, .body_dark .basic_table_info tbody tr td, .body_dark .typography_content .code-preview, .body_dark .doc_left_sidebarlist:before {
+  border-color: #2c303a;
+}
+.body_dark .blog_comment_box.topic_comment .get_quote_form .form-group input:focus ~ .floating-label, .body_dark .blog_comment_box.topic_comment .get_quote_form .form-group textarea:focus ~ .floating-label,
+.body_dark .blog_comment_box.topic_comment .get_quote_form .form-group input:not(:focus):valid ~ .floating-label,
+.body_dark .blog_comment_box.topic_comment .get_quote_form .form-group .form-control {
+  background: #252830;
+  border-color: #252830;
+}
+.body_dark.onepage-doc .nav-sidebar .nav-item .dropdown_nav:before {
+  background: #272830;
+}
+.body_dark .nav-sidebar .nav-item.active .nav-link, .body_dark .nav-sidebar .nav-item:hover .nav-link {
+  color: var(--brand_color);
+}
+.body_dark .nav-sidebar .nav-item .nav-link {
+  color: #c7c9d3;
+}
+.body_dark .nav-sidebar .nav-item .dropdown_nav li a {
+  color: #bbb;
+}
+.body_dark .doc_menu .nav-link,
+.body_dark .doc_rightsidebar .doc_right_link li a {
+  color: #bbb;
+}
+.body_dark .nav-sidebar .nav-item .dropdown_nav li a.active,
+.body_dark .doc_menu .nav-link.active, .body_dark .doc_menu .nav-link:hover, .body_dark .side_menu .mobile_menu_header .close_nav {
+  color: #fff;
+}
+.body_dark .documentation_item .icon {
+  background: rgba(255, 255, 255, 0.2);
+}
+.body_dark .fontsize-controllers .btn-group .btn,
+.body_dark .doc_rightsidebar .bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+  color: #c7c9d3;
+}
+.body_dark .border_bottom {
+  background: #384c59;
+}
+.body_dark .link, .body_dark .version, .body_dark .question_box .signup_form .input-group, .body_dark .tab_shortcode .tab-content {
+  border: 1px solid #384c59;
+  background: #1f3341;
+}
+.body_dark .tab_shortcode .nav-tabs .nav-item .nav-link {
+  background: #1f3341;
+  border-color: #384c59;
+}
+.body_dark .question_box .signup_form .input-group .form-control {
+  color: #6b707f;
+}
+.body_dark .question_box .signup_form .input-group button:before {
+  background: #384c59;
+}
+.body_dark .search-banner-light .header_search_keyword .header-search-form__keywords-label,
+.body_dark .search-banner-light .header_search_keyword ul li a,
+.body_dark .get_started p {
+  color: #d3d4d4;
+}
+.body_dark .f_bg_color, .body_dark .page_breadcrumb, .body_dark .toggle_btn, .body_dark .doc_accordion .card-header button {
+  background: #1f3341;
+}
+.body_dark .shortcode_text ul li a, .body_dark .dark_menu .menu > .nav-item > .nav-link,
+.body_dark .tab_shortcode .nav-tabs .nav-item .nav-link.active, .body_dark .page_breadcrumb .breadcrumb .breadcrumb-item.active, .body_dark .toggle_btn.collapsed:before, .body_dark .toggle_btn.collapsed, .body_dark .doc_accordion .card-header button, .body_dark .table {
+  color: #fff;
+}
+.body_dark .toggle_body, .body_dark .doc_accordion, .body_dark .message_alert {
+  background: #061f2f;
+}
+.body_dark .toggle_btn {
+  color: var(--brand_color);
+}
+.body_dark .menu > .nav-item.submenu .dropdown-menu .nav-item .nav-link h5 {
+  color: var(--secondary_color);
+}
+.body_dark .card_tagged li a {
+  color: #e3e4e8;
+  background: #444857;
+}
+.body_dark .card_tagged li a:hover {
+  opacity: 0.9;
+}
+
+/*---------------------------------------------------- */
+
+/*# sourceMappingURL=dark-mode.css.map */
